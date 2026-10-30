@@ -12,6 +12,11 @@
 
 ---
 
+> **Independent learning tour:** [Explore the source](exploration/README.md)
+> for concepts, architecture, implementation walkthroughs, an offline lab, and
+> a revision-pinned evidence record. Prepared for Chimera Research; not an
+> upstream-endorsed guide. Upstream authorship and the MIT license are unchanged.
+
 ## What is the Actor-Gatherer Framework
 
 Actor-Gatherer is a new paradigm in agent design where the context across agents is managed proactively and externally, separating solving a task from context management needed to do so.
